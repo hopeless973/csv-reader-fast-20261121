@@ -1,0 +1,7 @@
+{
+  "name": "csv-reader-fast-20261121",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=22.18.0" }
+}
